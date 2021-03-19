@@ -71,54 +71,46 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(38).pdf" style="text-decoration:none;">CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(39).pdf" style="text-decoration:none;">Hierarchical Decision Making by Generating and Following Natural Language Instructions</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(40).pdf" style="text-decoration:none;">Exploration via Hindsight Goal Generation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(41).pdf" style="text-decoration:none;">Search on the Replay Buffer: Bridging Planning and Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(42).pdf" style="text-decoration:none;">Sub-policy Adaptation for Hierarchical Reinforcement Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(43).pdf" style="text-decoration:none;">Language as an Abstraction for Hierarchical Deep Reinforcement Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(44).pdf" style="text-decoration:none;">Dynamics-Aware Unsupervised Discovery of Skills</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(45).pdf" style="text-decoration:none;">A survey on intrinsic motivation in reinforcement learning</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(46).pdf" style="text-decoration:none;">Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(47).pdf" style="text-decoration:none;">Why Does Hierarchy (Sometimes) Work So Well in Reinforcement Learning?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(48).pdf" style="text-decoration:none;">Planning with Goal-Conditioned Policies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(49).pdf" style="text-decoration:none;">Gradient Surgery for Multi-Task Learning</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(50).pdf" style="text-decoration:none;">MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(51).pdf" style="text-decoration:none;">Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(52).pdf" style="text-decoration:none;">The Option-Critic Architecture</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(53).pdf" style="text-decoration:none;">Hierarchical Reinforcement Learning for Course Recommendation in MOOCs</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(54).pdf" style="text-decoration:none;">CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(55).pdf" style="text-decoration:none;">Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(56).pdf" style="text-decoration:none;">Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(57).pdf" style="text-decoration:none;">Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(58).pdf" style="text-decoration:none;">Recent Advances in Hierarchical Reinforcement Learning</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(59).pdf" style="text-decoration:none;">Learning Multi-Level Hierarchies with Hindsight</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(60).pdf" style="text-decoration:none;">Near-Optimal Representation Learning for Hierarchical Reinforcement Learning </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(61).pdf" style="text-decoration:none;">Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(62).pdf" style="text-decoration:none;">Hindsight Experience Replay</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(63).pdf" style="text-decoration:none;">Learning Fairness in Multi-Agent Systems</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(64).pdf" style="text-decoration:none;">Universal Value Function Approximators</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hierarchical-Reinforcement-Learning-Papers/blob/master/h(65).pdf" style="text-decoration:none;">Aggregating E-commerce Search Results from Heterogeneous Sources via Hierarchical Reinforcement Learning </a></li> 
 </ul>
